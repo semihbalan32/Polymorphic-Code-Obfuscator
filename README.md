@@ -42,3 +42,15 @@ Random variable names
 Encrypted strings with XOR decryption
 Dead code blocks
 A decrypt() function at the top
+
+
+
+
+
+
+
+
+
+
+
+
