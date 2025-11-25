@@ -1,5 +1,11 @@
 # Polymorphic-Code-Obfuscator
 hide your code 
+📦 Install Dependencies
+
+Copy
+
+bash
+pip install astor
 
 🔧 How to Use
 1. Make the script executable
